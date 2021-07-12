@@ -11,6 +11,9 @@
         "ecmaVersion": 12
     },
     "rules": {
-        "object-curly-spacing": "off"
+        "object-curly-spacing": "off",
+        "max-len": "off",
+        "comma-dangle": "off",
+        "indent": "off"
     }
 }
